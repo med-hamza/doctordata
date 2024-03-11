@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Dr. John Smith",
             "phone": "+1234567890",
-            "category": "Cardiologist",
+            "category": "Surgery",
             "description": "Dr. John Smith specializes in treating heart conditions.",
             "location": "123 Main Street, City, Country",
             "picture": "john_smith.jpg"
@@ -13,7 +13,7 @@
             "id": 2,
             "name": "Dr. Emily Johnson",
             "phone": "+1987654321",
-            "category": "Dermatologist",
+            "category": "Orthopedics",
             "description": "Dr. Emily Johnson provides medical care for skin conditions.",
             "location": "456 Elm Street, City, Country",
             "picture": "emily_johnson.jpg"
@@ -22,7 +22,7 @@
             "id": 3,
             "name": "Dr. Michael Brown",
             "phone": "+1122334455",
-            "category": "Pediatrician",
+            "category": "Paediatrics",
             "description": "Dr. Michael Brown specializes in children's healthcare.",
             "location": "789 Oak Avenue, City, Country",
             "picture": "michael_brown.jpg"
@@ -31,7 +31,7 @@
             "id": 4,
             "name": "Dr. Sarah Lee",
             "phone": "+1555666777",
-            "category": "Obstetrician",
+            "category": "OBG",
             "description": "Dr. Sarah Lee specializes in women's health and childbirth.",
             "location": "101 Pine Street, City, Country",
             "picture": "sarah_lee.jpg"
@@ -40,7 +40,7 @@
             "id": 5,
             "name": "Dr. David Miller",
             "phone": "+1444333222",
-            "category": "Orthopedic Surgeon",
+            "category": "Cardiology",
             "description": "Dr. David Miller performs surgeries for bone and joint issues.",
             "location": "202 Maple Road, City, Country",
             "picture": "david_miller.jpg"
@@ -49,7 +49,7 @@
             "id": 6,
             "name": "Dr. Maria Garcia",
             "phone": "+1666999888",
-            "category": "Cardiologist",
+            "category": "Neurology",
             "description": "Dr. Maria Garcia specializes in treating heart conditions.",
             "location": "303 Cedar Lane, City, Country",
             "picture": "maria_garcia.jpg"
@@ -58,7 +58,7 @@
             "id": 7,
             "name": "Dr. James Wang",
             "phone": "+1777888999",
-            "category": "Dermatologist",
+            "category": "Pulmonology",
             "description": "Dr. James Wang provides medical care for skin conditions.",
             "location": "404 Birch Street, City, Country",
             "picture": "james_wang.jpg"
@@ -67,7 +67,7 @@
             "id": 8,
             "name": "Dr. Rachel Patel",
             "phone": "+1888999000",
-            "category": "Pediatrician",
+            "category": "Surgery",
             "description": "Dr. Rachel Patel specializes in children's healthcare.",
             "location": "505 Walnut Avenue, City, Country",
             "picture": "rachel_patel.jpg"
@@ -76,7 +76,7 @@
             "id": 9,
             "name": "Dr. Daniel Kim",
             "phone": "+1999000111",
-            "category": "Obstetrician",
+            "category": "Orthopedics",
             "description": "Dr. Daniel Kim specializes in women's health and childbirth.",
             "location": "606 Pine Road, City, Country",
             "picture": "daniel_kim.jpg"
@@ -85,7 +85,7 @@
             "id": 10,
             "name": "Dr. Jennifer Lopez",
             "phone": "+2000111222",
-            "category": "Orthopedic Surgeon",
+            "category": "Paediatrics",
             "description": "Dr. Jennifer Lopez performs surgeries for bone and joint issues.",
             "location": "707 Oak Street, City, Country",
             "picture": "jennifer_lopez.jpg"
@@ -94,7 +94,7 @@
             "id": 11,
             "name": "Dr. William Chen",
             "phone": "+2111222333",
-            "category": "Cardiologist",
+            "category": "OBG",
             "description": "Dr. William Chen specializes in treating heart conditions.",
             "location": "808 Elm Avenue, City, Country",
             "picture": "william_chen.jpg"
@@ -103,7 +103,7 @@
             "id": 12,
             "name": "Dr. Michelle Adams",
             "phone": "+2222333444",
-            "category": "Dermatologist",
+            "category": "Cardiology",
             "description": "Dr. Michelle Adams provides medical care for skin conditions.",
             "location": "909 Maple Lane, City, Country",
             "picture": "michelle_adams.jpg"
@@ -112,7 +112,7 @@
             "id": 13,
             "name": "Dr. Alexander Wilson",
             "phone": "+2333444555",
-            "category": "Pediatrician",
+            "category": "Neurology",
             "description": "Dr. Alexander Wilson specializes in children's healthcare.",
             "location": "1010 Cedar Street, City, Country",
             "picture": "alexander_wilson.jpg"
@@ -121,7 +121,7 @@
             "id": 14,
             "name": "Dr. Olivia Martinez",
             "phone": "+2444555666",
-            "category": "Obstetrician",
+            "category": "Pulmonology",
             "description": "Dr. Olivia Martinez specializes in women's health and childbirth.",
             "location": "1111 Pine Avenue, City, Country",
             "picture": "olivia_martinez.jpg"
@@ -130,7 +130,7 @@
             "id": 15,
             "name": "Dr. Ethan Thompson",
             "phone": "+2555666777",
-            "category": "Orthopedic Surgeon",
+            "category": "Surgery",
             "description": "Dr. Ethan Thompson performs surgeries for bone and joint issues.",
             "location": "1212 Elm Road, City, Country",
             "picture": "ethan_thompson.jpg"
@@ -139,7 +139,7 @@
             "id": 16,
             "name": "Dr. Isabella White",
             "phone": "+2666777888",
-            "category": "Cardiologist",
+            "category": "Orthopedics",
             "description": "Dr. Isabella White specializes in treating heart conditions.",
             "location": "1313 Oak Lane, City, Country",
             "picture": "isabella_white.jpg"
@@ -148,7 +148,7 @@
             "id": 17,
             "name": "Dr. Jacob Taylor",
             "phone": "+2777888999",
-            "category": "Dermatologist",
+            "category": "Paediatrics",
             "description": "Dr. Jacob Taylor provides medical care for skin conditions.",
             "location": "1414 Cedar Street, City, Country",
             "picture": "jacob_taylor.jpg"
@@ -157,7 +157,7 @@
             "id": 18,
             "name": "Dr. Sophia Harris",
             "phone": "+2888999000",
-            "category": "Pediatrician",
+            "category": "OBG",
             "description": "Dr. Sophia Harris specializes in children's healthcare.",
             "location": "1515 Maple Avenue, City, Country",
             "picture": "sophia_harris.jpg"
@@ -166,7 +166,7 @@
             "id": 19,
             "name": "Dr. Benjamin Clark",
             "phone": "+2999000111",
-            "category": "Obstetrician",
+            "category": "Cardiology",
             "description": "Dr. Benjamin Clark specializes in women's health and childbirth.",
             "location": "1616 Pine Road, City, Country",
             "picture": "benjamin_clark.jpg"
@@ -175,7 +175,7 @@
             "id": 20,
             "name": "Dr. Chloe Baker",
             "phone": "+3000111222",
-            "category": "Orthopedic Surgeon",
+            "category": "Neurology",
             "description": "Dr. Chloe Baker performs surgeries for bone and joint issues.",
             "location": "1717 Elm Street, City, Country",
             "picture": "chloe_baker.jpg"
