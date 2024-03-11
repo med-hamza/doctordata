@@ -181,9 +181,9 @@
             "picture": "chloe_baker.jpg"
         }
     ],
-    "lists" : [
+    "category" : [
          {
-            "id": 19,
+            "id": 1,
             "name": "Dr. Benjamin Clark",
             "phone": "+2999000111",
             "category": "Cardiology",
@@ -192,7 +192,7 @@
             "picture": "benjamin_clark.jpg"
         },
         {
-            "id": 20,
+            "id": 2,
             "name": "Dr. Chloe Baker",
             "phone": "+3000111222",
             "category": "Neurology",
