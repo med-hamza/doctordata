@@ -180,5 +180,25 @@
             "location": "1717 Elm Street, City, Country",
             "picture": "chloe_baker.jpg"
         }
+    ],
+    "lists" : [
+         {
+            "id": 19,
+            "name": "Dr. Benjamin Clark",
+            "phone": "+2999000111",
+            "category": "Cardiology",
+            "description": "Dr. Benjamin Clark specializes in women's health and childbirth.",
+            "location": "1616 Pine Road, City, Country",
+            "picture": "benjamin_clark.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Dr. Chloe Baker",
+            "phone": "+3000111222",
+            "category": "Neurology",
+            "description": "Dr. Chloe Baker performs surgeries for bone and joint issues.",
+            "location": "1717 Elm Street, City, Country",
+            "picture": "chloe_baker.jpg"
+        }
     ]
 }
