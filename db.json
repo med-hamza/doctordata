@@ -180,5 +180,18 @@
             "location": "1717 Elm Street, City, Country",
             "picture": "chloe_baker.jpg"
         }
+    ],
+    
+    "category": [
+        {
+            "id": 1,
+            "name": "Surgery",
+            "alias": "surgery"
+        },
+        {
+            "id": 2,
+            "name": "Orthopedics",
+            "alias": "orthopedics"
+        }
     ]
 }
