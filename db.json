@@ -180,42 +180,5 @@
             "location": "1717 Elm Street, City, Country",
             "picture": "chloe_baker.jpg"
         }
-    ],
-    "category": [
-        {
-            "id": 1,
-            "name": "Surgery",
-            "alias": "surgery"
-        },
-        {
-            "id": 2,
-            "name": "Orthopedics",
-            "alias": "orthopedics"
-        },
-        {
-            "id": 3,
-            "name": "Paediatrics",
-            "alias": "paediatrics"
-        },
-        {
-            "id": 4,
-            "name": "OBG",
-            "alias": "obg"
-        },
-        {
-            "id": 5,
-            "name": "Cardiology",
-            "alias": "Cardiology"
-        },
-        {
-            "id": 6,
-            "name": "Neurology",
-            "alias": "neurology"
-        },
-        {
-            "id": 7,
-            "name": "Pulmonology",
-            "alias": "pulmonology"
-        }
     ]
 }
