@@ -181,38 +181,38 @@
             "picture": "chloe_baker.jpg"
         }
     ],
-    "category" : [
-         {
+    "category": [
+        {
             "id": 1,
             "name": "Surgery",
-            "alias": "surgery",
+            "alias": "surgery"
         },
         {
             "id": 2,
             "name": "Orthopedics",
-            "alias": "orthopedics",
+            "alias": "orthopedics"
         },
-         {
+        {
             "id": 3,
             "name": "Paediatrics",
-            "alias": "paediatrics",
+            "alias": "paediatrics"
         },
-         {
+        {
             "id": 4,
             "name": "OBG",
-            "alias": "obg",
+            "alias": "obg"
         },
         {
             "id": 5,
             "name": "Cardiology",
-            "alias": "Cardiology",
+            "alias": "Cardiology"
         },
-         {
+        {
             "id": 6,
             "name": "Neurology",
-            "alias": "neurology",
+            "alias": "neurology"
         },
-         {
+        {
             "id": 7,
             "name": "Pulmonology",
             "alias": "pulmonology"
