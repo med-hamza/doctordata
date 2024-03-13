@@ -226,45 +226,38 @@
         {
             "id": 1,
             "name": "Surgery",
-            "alias": "surgery",
-            "picture" : "surgery.png"
+            "alias": "surgery"
             
         },
         {
             "id": 2,
             "name": "Orthopedics",
-            "alias": "orthopedics",
-            "picture" : "orthopedics.png"
+            "alias": "orthopedics"
         },
           {
             "id": 3,
             "name": "Paediatrics",
-            "alias": "paediatrics",
-            "picture" : "paediatrics.png"
+            "alias": "paediatrics"
         },
         {
             "id": 4,
             "name": "OBG",
-            "alias": "obg",
-            "picture" : "obg.png"
+            "alias": "obg"
         },
         {
             "id": 5,
             "name": "Cardiology",
-            "alias": "cardiology",
-            "picture" : "cardiology.png"
+            "alias": "cardiology"
         },
         {
             "id": 6,
             "name": "Neurology",
-            "alias": "neurology",
-            "picture" : "neurology.png"
+            "alias": "neurology"
         },
         {
             "id": 7,
             "name": "Pulmonology",
-            "alias": "pulmonology",
-            "picture" : "pulmonology.png"
+            "alias": "pulmonology"
         }
     ]
 }
