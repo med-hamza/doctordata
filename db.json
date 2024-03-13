@@ -7,7 +7,9 @@
             "category": "Surgery",
             "description": "Dr. John Smith specializes in treating heart conditions.",
             "address": "123 Main Street, City, Country",
-            "picture": "john_smith.jpg"
+            "picture": "john_smith.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 2,
@@ -16,7 +18,9 @@
             "category": "Orthopedics",
             "description": "Dr. Emily Johnson provides medical care for skin conditions.",
             "address": "456 Elm Street, City, Country",
-            "picture": "emily_johnson.jpg"
+            "picture": "emily_johnson.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 3,
@@ -25,7 +29,9 @@
             "category": "Paediatrics",
             "description": "Dr. Michael Brown specializes in children's healthcare.",
             "address": "789 Oak Avenue, City, Country",
-            "picture": "michael_brown.jpg"
+            "picture": "michael_brown.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 4,
@@ -34,7 +40,9 @@
             "category": "OBG",
             "description": "Dr. Sarah Lee specializes in women's health and childbirth.",
             "address": "101 Pine Street, City, Country",
-            "picture": "sarah_lee.jpg"
+            "picture": "sarah_lee.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 5,
@@ -43,7 +51,9 @@
             "category": "Cardiology",
             "description": "Dr. David Miller performs surgeries for bone and joint issues.",
             "address": "202 Maple Road, City, Country",
-            "picture": "david_miller.jpg"
+            "picture": "david_miller.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 6,
@@ -52,7 +62,9 @@
             "category": "Neurology",
             "description": "Dr. Maria Garcia specializes in treating heart conditions.",
             "address": "303 Cedar Lane, City, Country",
-            "picture": "maria_garcia.jpg"
+            "picture": "maria_garcia.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 7,
@@ -61,7 +73,9 @@
             "category": "Pulmonology",
             "description": "Dr. James Wang provides medical care for skin conditions.",
             "address": "404 Birch Street, City, Country",
-            "picture": "james_wang.jpg"
+            "picture": "james_wang.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 8,
@@ -70,7 +84,9 @@
             "category": "Surgery",
             "description": "Dr. Rachel Patel specializes in children's healthcare.",
             "address": "505 Walnut Avenue, City, Country",
-            "picture": "rachel_patel.jpg"
+            "picture": "rachel_patel.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 9,
@@ -79,7 +95,9 @@
             "category": "Orthopedics",
             "description": "Dr. Daniel Kim specializes in women's health and childbirth.",
             "address": "606 Pine Road, City, Country",
-            "picture": "daniel_kim.jpg"
+            "picture": "daniel_kim.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 10,
@@ -88,7 +106,9 @@
             "category": "Paediatrics",
             "description": "Dr. Jennifer Lopez performs surgeries for bone and joint issues.",
             "address": "707 Oak Street, City, Country",
-            "picture": "jennifer_lopez.jpg"
+            "picture": "jennifer_lopez.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 11,
@@ -97,7 +117,9 @@
             "category": "OBG",
             "description": "Dr. William Chen specializes in treating heart conditions.",
             "address": "808 Elm Avenue, City, Country",
-            "picture": "william_chen.jpg"
+            "picture": "william_chen.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 12,
@@ -106,7 +128,9 @@
             "category": "Cardiology",
             "description": "Dr. Michelle Adams provides medical care for skin conditions.",
             "address": "909 Maple Lane, City, Country",
-            "picture": "michelle_adams.jpg"
+            "picture": "michelle_adams.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 13,
@@ -115,7 +139,9 @@
             "category": "Neurology",
             "description": "Dr. Alexander Wilson specializes in children's healthcare.",
             "address": "1010 Cedar Street, City, Country",
-            "picture": "alexander_wilson.jpg"
+            "picture": "alexander_wilson.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 14,
@@ -124,7 +150,9 @@
             "category": "Pulmonology",
             "description": "Dr. Olivia Martinez specializes in women's health and childbirth.",
             "address": "1111 Pine Avenue, City, Country",
-            "picture": "olivia_martinez.jpg"
+            "picture": "olivia_martinez.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 15,
@@ -133,7 +161,9 @@
             "category": "Surgery",
             "description": "Dr. Ethan Thompson performs surgeries for bone and joint issues.",
             "address": "1212 Elm Road, City, Country",
-            "picture": "ethan_thompson.jpg"
+            "picture": "ethan_thompson.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 16,
@@ -142,7 +172,9 @@
             "category": "Orthopedics",
             "description": "Dr. Isabella White specializes in treating heart conditions.",
             "address": "1313 Oak Lane, City, Country",
-            "picture": "isabella_white.jpg"
+            "picture": "isabella_white.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 17,
@@ -151,7 +183,9 @@
             "category": "Paediatrics",
             "description": "Dr. Jacob Taylor provides medical care for skin conditions.",
             "address": "1414 Cedar Street, City, Country",
-            "picture": "jacob_taylor.jpg"
+            "picture": "jacob_taylor.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 18,
@@ -160,7 +194,9 @@
             "category": "OBG",
             "description": "Dr. Sophia Harris specializes in children's healthcare.",
             "address": "1515 Maple Avenue, City, Country",
-            "picture": "sophia_harris.jpg"
+            "picture": "sophia_harris.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 19,
@@ -169,7 +205,9 @@
             "category": "Cardiology",
             "description": "Dr. Benjamin Clark specializes in women's health and childbirth.",
             "address": "1616 Pine Road, City, Country",
-            "picture": "benjamin_clark.jpg"
+            "picture": "benjamin_clark.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         },
         {
             "id": 20,
@@ -178,7 +216,9 @@
             "category": "Neurology",
             "description": "Dr. Chloe Baker performs surgeries for bone and joint issues.",
             "address": "1717 Elm Street, City, Country",
-            "picture": "chloe_baker.jpg"
+            "picture": "chloe_baker.jpg",
+            "lat" : "36.73328994348616",
+            "lng" :"10.2477452962453"
         }
     ],
     
