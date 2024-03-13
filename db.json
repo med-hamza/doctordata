@@ -19,8 +19,8 @@
             "description": "Dr. Emily Johnson provides medical care for skin conditions.",
             "address": "456 Elm Street, City, Country",
             "picture": "emily_johnson.jpg",
-            "lat" : "36.73328994348616",
-            "lng" :"10.2477452962453"
+            "lat" : "37.27054169136575",
+            "lng" :"9.875153267435568"
         },
         {
             "id": 3,
@@ -30,8 +30,8 @@
             "description": "Dr. Michael Brown specializes in children's healthcare.",
             "address": "789 Oak Avenue, City, Country",
             "picture": "michael_brown.jpg",
-            "lat" : "36.73328994348616",
-            "lng" :"10.2477452962453"
+            "lat" : "33.81341833645965",   
+            "lng" :"10.99099034832483"
         },
         {
             "id": 4,
@@ -41,8 +41,8 @@
             "description": "Dr. Sarah Lee specializes in women's health and childbirth.",
             "address": "101 Pine Street, City, Country",
             "picture": "sarah_lee.jpg",
-            "lat" : "36.73328994348616",
-            "lng" :"10.2477452962453"
+            "lat" : "36.81536172391417",
+            "lng" :"10.103082011592656"
         },
         {
             "id": 5,
