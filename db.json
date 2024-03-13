@@ -3,7 +3,6 @@
         {
             "id": 1,
             "name": "Dr. John Smith",
-            "title" : "Cardiothoracic",
             "phone": "+1234567890",
             "category": "Surgery",
             "description": "Dr. John Smith specializes in treating heart conditions.",
@@ -15,7 +14,6 @@
         {
             "id": 2,
             "name": "Dr. Emily Johnson",
-            "title" : "Dermatologist",
             "phone": "+1987654321",
             "category": "Orthopedics",
             "description": "Dr. Emily Johnson provides medical care for skin conditions.",
@@ -27,7 +25,6 @@
         {
             "id": 3,
             "name": "Dr. Michael Brown",
-            "title" : "Pediatrician",
             "phone": "+1122334455",
             "category": "Paediatrics",
             "description": "Dr. Michael Brown specializes in children's healthcare.",
@@ -39,7 +36,6 @@
         {
             "id": 4,
             "name": "Dr. Sarah Lee",
-            "title" : "Obstetrician-Gynecologist",
             "phone": "+1555666777",
             "category": "OBG",
             "description": "Dr. Sarah Lee specializes in women's health and childbirth.",
@@ -51,7 +47,6 @@
         {
             "id": 5,
             "name": "Dr. David Miller",
-            "title" : "Cardiac Surgeon",
             "phone": "+1444333222",
             "category": "Cardiology",
             "description": "Dr. David Miller performs surgeries for bone and joint issues.",
@@ -63,7 +58,6 @@
         {
             "id": 6,
             "name": "Dr. Maria Garcia",
-            "title" : "Neurocardiologist",
             "phone": "+1666999888",
             "category": "Neurology",
             "description": "Dr. Maria Garcia specializes in treating heart conditions.",
@@ -75,7 +69,6 @@
         {
             "id": 7,
             "name": "Dr. James Wang",
-            "title" : "Dermatologist",
             "phone": "+1777888999",
             "category": "Pulmonology",
             "description": "Dr. James Wang provides medical care for skin conditions.",
@@ -87,7 +80,6 @@
         {
             "id": 8,
             "name": "Dr. Rachel Patel",
-            "title" : "Pediatric",
             "phone": "+1888999000",
             "category": "Surgery",
             "description": "Dr. Rachel Patel specializes in children's healthcare.",
@@ -99,7 +91,6 @@
         {
             "id": 9,
             "name": "Dr. Daniel Kim",
-            "title" : "Orthopedic Obstetrician-Gynecologist",
             "phone": "+1999000111",
             "category": "Orthopedics",
             "description": "Dr. Daniel Kim specializes in women's health and childbirth.",
@@ -111,7 +102,6 @@
         {
             "id": 10,
             "name": "Dr. Jennifer Lopez",
-            "title" : "Pediatric Orthopedic",
             "phone": "+2000111222",
             "category": "Paediatrics",
             "description": "Dr. Jennifer Lopez performs surgeries for bone and joint issues.",
@@ -123,7 +113,6 @@
         {
             "id": 11,
             "name": "Dr. William Chen",
-            "title" : "Cardiovascular",
             "phone": "+2111222333",
             "category": "OBG",
             "description": "Dr. William Chen specializes in treating heart conditions.",
@@ -135,7 +124,6 @@
         {
             "id": 12,
             "name": "Dr. Michelle Adams",
-            "title" : "Cardiologist",
             "phone": "+2222333444",
             "category": "Cardiology",
             "description": "Dr. Michelle Adams provides medical care for skin conditions.",
@@ -147,7 +135,6 @@
         {
             "id": 13,
             "name": "Dr. Alexander Wilson",
-            "title" : "Cardiologist",
             "phone": "+2333444555",
             "category": "Neurology",
             "description": "Dr. Alexander Wilson specializes in children's healthcare.",
@@ -159,7 +146,6 @@
         {
             "id": 14,
             "name": "Dr. Olivia Martinez",
-            "title" : "Obstetric",
             "phone": "+2444555666",
             "category": "Pulmonology",
             "description": "Dr. Olivia Martinez specializes in women's health and childbirth.",
@@ -171,7 +157,6 @@
         {
             "id": 15,
             "name": "Dr. Ethan Thompson",
-            "title" : "Orthopedic",
             "phone": "+2555666777",
             "category": "Surgery",
             "description": "Dr. Ethan Thompson performs surgeries for bone and joint issues.",
@@ -183,7 +168,6 @@
         {
             "id": 16,
             "name": "Dr. Isabella White",
-            "title" : "Cardiothoracic",
             "phone": "+2666777888",
             "category": "Orthopedics",
             "description": "Dr. Isabella White specializes in treating heart conditions.",
@@ -195,7 +179,6 @@
         {
             "id": 17,
             "name": "Dr. Jacob Taylor",
-            "title" : "Pediatric",
             "phone": "+2777888999",
             "category": "Paediatrics",
             "description": "Dr. Jacob Taylor provides medical care for skin conditions.",
@@ -207,7 +190,6 @@
         {
             "id": 18,
             "name": "Dr. Sophia Harris",
-            "title" : "Pediatric Obstetrician-Gynecologist",
             "phone": "+2888999000",
             "category": "OBG",
             "description": "Dr. Sophia Harris specializes in children's healthcare.",
@@ -219,7 +201,6 @@
         {
             "id": 19,
             "name": "Dr. Benjamin Clark",
-            "title" : "Cardiac Obstetrician-Gynecologist",
             "phone": "+2999000111",
             "category": "Cardiology",
             "description": "Dr. Benjamin Clark specializes in women's health and childbirth.",
@@ -231,7 +212,6 @@
         {
             "id": 20,
             "name": "Dr. Chloe Baker",
-            "title" : "Neurosurgical",
             "phone": "+3000111222",
             "category": "Neurology",
             "description": "Dr. Chloe Baker performs surgeries for bone and joint issues.",
