@@ -7,7 +7,7 @@
             "category": "Surgery",
             "title": "Cardiothoracic Surgeon",
             "address": "123 Main Street, City, Country",
-            "picture": "john_smith.jpg",
+            "picture": "john_smith",
             "lat" : "36.73328994348616",
             "lng" :"10.2477452962453",
             "available" : "oui"
@@ -19,7 +19,7 @@
             "category": "Orthopedics",
             "title": " Orthopedic Dermatologist",
             "address": "456 Elm Street, City, Country",
-            "picture": "emily_johnson.jpg",
+            "picture": "emily_johnson",
             "lat" : "37.27054169136575",
             "lng" :"9.875153267435568",
             "available" : "non"
@@ -31,7 +31,7 @@
             "category": "Paediatrics",
             "title": "Pediatrician",
             "address": "789 Oak Avenue, City, Country",
-            "picture": "michael_brown.jpg",
+            "picture": "michael_brown",
             "lat" : "33.81341833645965",   
             "lng" :"10.99099034832483",
             "available" : "oui"
@@ -43,7 +43,7 @@
             "category": "OBG",
             "title": "Obstetrician-Gynecologist (OBGYN)",
             "address": "101 Pine Street, City, Country",
-            "picture": "sarah_lee.jpg",
+            "picture": "sarah_lee",
             "lat" : "36.81536172391417",
             "lng" :"10.103082011592656",
             "available" : "non"
@@ -55,7 +55,7 @@
             "category": "Cardiology",
             "title": "Cardiac Surgeon",
             "address": "202 Maple Road, City, Country",
-            "picture": "david_miller.jpg",
+            "picture": "david_miller",
             "lat" : "36.73328994348616",
             "lng" :"10.2477452962453",
             "available" : "non"
@@ -67,7 +67,7 @@
             "category": "Neurology",
             "title": "Neurocardiologist",
             "address": "303 Cedar Lane, City, Country",
-            "picture": "maria_garcia.jpg",
+            "picture": "maria_garcia",
             "lat" : "36.73328994348616",
             "lng" :"10.2477452962453",
             "available" : "non"
@@ -79,7 +79,7 @@
             "category": "Pulmonology",
             "title": "Pulmonary Dermatologist",
             "address": "404 Birch Street, City, Country",
-            "picture": "james_wang.jpg",
+            "picture": "james_wang",
             "lat" : "36.73328994348616",
             "lng" :"10.2477452962453",
             "available" : "oui"
@@ -91,7 +91,7 @@
             "category": "Surgery",
             "title": "Pediatric Surgeon",
             "address": "505 Walnut Avenue, City, Country",
-            "picture": "rachel_patel.jpg",
+            "picture": "rachel_patel",
             "lat" : "36.73328994348616",
             "lng" :"10.2477452962453",
             "available" : "non"
@@ -103,7 +103,7 @@
             "category": "Orthopedics",
             "title": "Orthopedic Obstetrician-Gynecologist (OBGYN)",
             "address": "606 Pine Road, City, Country",
-            "picture": "daniel_kim.jpg",
+            "picture": "daniel_kim",
             "lat" : "36.73328994348616",
             "lng" :"10.2477452962453",
             "available" : "oui"
@@ -115,7 +115,7 @@
             "category": "Paediatrics",
             "title": "Pediatric Orthopedic Surgeon",
             "address": "707 Oak Street, City, Country",
-            "picture": "jennifer_lopez.jpg",
+            "picture": "jennifer_lopez",
             "lat" : "36.73328994348616",
             "lng" :"10.2477452962453",
             "available" : "oui"
@@ -127,7 +127,7 @@
             "category": "OBG",
             "title": "Cardiovascular Specialist",
             "address": "808 Elm Avenue, City, Country",
-            "picture": "william_chen.jpg",
+            "picture": "william_chen",
             "lat" : "36.73328994348616",
             "lng" :"10.2477452962453",
             "available" : "non"
@@ -139,7 +139,7 @@
             "category": "Cardiology",
             "title": "Cardiologist Dermatologist",
             "address": "909 Maple Lane, City, Country",
-            "picture": "michelle_adams.jpg",
+            "picture": "michelle_adams",
             "lat" : "36.73328994348616",
             "lng" :"10.2477452962453",
             "available" : "non"
@@ -151,7 +151,7 @@
             "category": "Neurology",
             "title": "Pediatric Neurologist",
             "address": "1010 Cedar Street, City, Country",
-            "picture": "alexander_wilson.jpg",
+            "picture": "alexander_wilson",
             "lat" : "36.73328994348616",
             "lng" :"10.2477452962453",
             "available" : "oui"
@@ -163,7 +163,7 @@
             "category": "Pulmonology",
             "title": "Obstetric Pulmonologist",
             "address": "1111 Pine Avenue, City, Country",
-            "picture": "olivia_martinez.jpg",
+            "picture": "olivia_martinez",
             "lat" : "36.73328994348616",
             "lng" :"10.2477452962453",
             "available" : "oui"
@@ -175,7 +175,7 @@
             "category": "Surgery",
             "title": "Orthopedic Surgeon",
             "address": "1212 Elm Road, City, Country",
-            "picture": "ethan_thompson.jpg",
+            "picture": "ethan_thompson",
             "lat" : "36.73328994348616",
             "lng" :"10.2477452962453",
             "available" : "non"
@@ -187,7 +187,7 @@
             "category": "Orthopedics",
             "title": "Cardiothoracic Specialist",
             "address": "1313 Oak Lane, City, Country",
-            "picture": "isabella_white.jpg",
+            "picture": "isabella_white",
             "lat" : "36.73328994348616",
             "lng" :"10.2477452962453",
             "available" : "non"
@@ -199,7 +199,7 @@
             "category": "Paediatrics",
             "title": "Pediatric Dermatologist",
             "address": "1414 Cedar Street, City, Country",
-            "picture": "jacob_taylor.jpg",
+            "picture": "jacob_taylor",
             "lat" : "36.73328994348616",
             "lng" :"10.2477452962453",
             "available" : "oui"
@@ -211,7 +211,7 @@
             "category": "OBG",
             "title": "Pediatric Obstetrician-Gynecologist (OBGYN)",
             "address": "1515 Maple Avenue, City, Country",
-            "picture": "sophia_harris.jpg",
+            "picture": "sophia_harris",
             "lat" : "36.73328994348616",
             "lng" :"10.2477452962453",
             "available" : "non"
@@ -223,7 +223,7 @@
             "category": "Cardiology",
             "title": "Cardiac Obstetrician-Gynecologist (OBGYN)",
             "address": "1616 Pine Road, City, Country",
-            "picture": "benjamin_clark.jpg",
+            "picture": "benjamin_clark",
             "lat" : "36.73328994348616",
             "lng" :"10.2477452962453",
             "available" : "non"
@@ -235,7 +235,7 @@
             "category": "Neurology",
             "title": " Neurosurgical Orthopedist",
             "address": "1717 Elm Street, City, Country",
-            "picture": "chloe_baker.jpg",
+            "picture": "chloe_baker",
             "lat" : "36.73328994348616",
             "lng" :"10.2477452962453",
             "available" : "oui"
